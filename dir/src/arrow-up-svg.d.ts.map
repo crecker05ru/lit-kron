@@ -1,0 +1,1 @@
+{"version":3,"file":"arrow-up-svg.d.ts","sourceRoot":"","sources":["../../src/arrow-up-svg.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,UAAU,EAAO,MAAM,KAAK,CAAC;AAErC,qBACa,UAAW,SAAQ,UAAU;IACjC,MAAM;CAQd;AACD,OAAO,CAAC,MAAM,CAAC;IACX,UAAU,qBAAqB;QAC3B,cAAc,EAAE,UAAU,CAAA;KAC7B;CACJ"}

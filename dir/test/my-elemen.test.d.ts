@@ -4,4 +4,4 @@
  * SPDX-License-Identifier: BSD-3-Clause
  */
 export {};
-//# sourceMappingURL=my-element_test.d.ts.map
+//# sourceMappingURL=my-elemen.test.d.ts.map

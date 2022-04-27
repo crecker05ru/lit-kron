@@ -1,1 +1,0 @@
-{"version":3,"file":"u-atom-svg.d.ts","sourceRoot":"","sources":["../src/u-atom-svg.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,UAAU,EAAO,MAAM,KAAK,CAAC;AAErC,qBACa,QAAS,SAAQ,UAAU;IAC/B,MAAM;CAcd;AACD,OAAO,CAAC,MAAM,CAAC;IACX,UAAU,qBAAqB;QAC3B,YAAY,EAAE,QAAQ,CAAA;KACzB;CACJ"}

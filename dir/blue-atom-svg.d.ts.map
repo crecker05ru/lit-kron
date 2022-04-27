@@ -1,1 +1,0 @@
-{"version":3,"file":"blue-atom-svg.d.ts","sourceRoot":"","sources":["../src/blue-atom-svg.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,UAAU,EAAO,MAAM,KAAK,CAAC;AAErC,qBACa,WAAY,SAAQ,UAAU;IAClC,MAAM;CAcd;AACD,OAAO,CAAC,MAAM,CAAC;IACX,UAAU,qBAAqB;QAC3B,eAAe,EAAE,WAAW,CAAA;KAC/B;CACJ"}

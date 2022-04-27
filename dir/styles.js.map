@@ -1,1 +1,0 @@
-{"version":3,"file":"styles.js","sourceRoot":"","sources":["../src/styles.ts"],"names":[],"mappings":"AAAA,MAAM,CAAE,MAAM,UAAU,GAAG,GAAG,CAAA;;;;;;;CAO7B,CAAA","sourcesContent":["export  const cardStyles = css`\n.wrapper{\n    width: 100%;\n}\n.border {\n    border: 3px solid #000;\n}\n`"]}
